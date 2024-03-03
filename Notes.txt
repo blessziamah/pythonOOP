@@ -1,0 +1,10 @@
+Class: A blueprint of an object
+
+Instance: A constructed object of a class
+
+Type: Indicates the class to which an instance belongs
+
+Method: A callable function of a class
+
+PILLARS OF OOP
+
